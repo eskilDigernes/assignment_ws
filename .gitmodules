@@ -1,0 +1,3 @@
+[submodule "TEL280"]
+	path = TEL280
+	url = https://github.com/eskilDigernes/TEL280
