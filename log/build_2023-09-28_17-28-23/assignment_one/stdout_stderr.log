@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating assignment_one.egg-info
+writing assignment_one.egg-info/PKG-INFO
+writing dependency_links to assignment_one.egg-info/dependency_links.txt
+writing entry points to assignment_one.egg-info/entry_points.txt
+writing requirements to assignment_one.egg-info/requires.txt
+writing top-level names to assignment_one.egg-info/top_level.txt
+writing manifest file 'assignment_one.egg-info/SOURCES.txt'
+reading manifest file 'assignment_one.egg-info/SOURCES.txt'
+writing manifest file 'assignment_one.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/site.py
+Creating /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment-one.egg-link (link to .)
+Installing scan_listener script to /home/eskil/assignment_ws/install/assignment_one/lib/assignment_one
+
+Installed /home/eskil/assignment_ws/build/assignment_one
+running install_data
+creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index
+creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index
+creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index/packages
+copying resource/assignment_one -> /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index/packages
+copying package.xml -> /home/eskil/assignment_ws/install/assignment_one/share/assignment_one

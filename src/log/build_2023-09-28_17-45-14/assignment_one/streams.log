@@ -1,0 +1,37 @@
+[0.505s] Invoking command in '/home/eskil/assignment_ws/src/assignment_one': PYTHONPATH=/home/eskil/assignment_ws/src/build/assignment_one/prefix_override:/home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/assignment_one build --build-base /home/eskil/assignment_ws/src/build/assignment_one/build install --record /home/eskil/assignment_ws/src/build/assignment_one/install.log --install-scripts $base/lib/assignment_one --single-version-externally-managed
+[0.658s] running egg_info
+[0.659s] creating ../build/assignment_one/assignment_one.egg-info
+[0.659s] writing ../build/assignment_one/assignment_one.egg-info/PKG-INFO
+[0.659s] writing dependency_links to ../build/assignment_one/assignment_one.egg-info/dependency_links.txt
+[0.659s] writing entry points to ../build/assignment_one/assignment_one.egg-info/entry_points.txt
+[0.659s] writing requirements to ../build/assignment_one/assignment_one.egg-info/requires.txt
+[0.660s] writing top-level names to ../build/assignment_one/assignment_one.egg-info/top_level.txt
+[0.661s] writing manifest file '../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+[0.684s] reading manifest file '../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+[0.684s] writing manifest file '../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+[0.684s] running build
+[0.685s] running build_py
+[0.685s] creating /home/eskil/assignment_ws/src/build/assignment_one/build
+[0.685s] creating /home/eskil/assignment_ws/src/build/assignment_one/build/lib
+[0.685s] creating /home/eskil/assignment_ws/src/build/assignment_one/build/lib/assignment_one
+[0.685s] copying assignment_one/scan_listener.py -> /home/eskil/assignment_ws/src/build/assignment_one/build/lib/assignment_one
+[0.685s] copying assignment_one/__init__.py -> /home/eskil/assignment_ws/src/build/assignment_one/build/lib/assignment_one
+[0.685s] running install
+[0.686s] running install_lib
+[0.686s] creating /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one
+[0.686s] copying /home/eskil/assignment_ws/src/build/assignment_one/build/lib/assignment_one/scan_listener.py -> /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one
+[0.687s] copying /home/eskil/assignment_ws/src/build/assignment_one/build/lib/assignment_one/__init__.py -> /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one
+[0.687s] byte-compiling /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one/scan_listener.py to scan_listener.cpython-38.pyc
+[0.688s] byte-compiling /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one/__init__.py to __init__.cpython-38.pyc
+[0.688s] running install_data
+[0.688s] creating /home/eskil/assignment_ws/src/install/assignment_one/share/ament_index
+[0.689s] creating /home/eskil/assignment_ws/src/install/assignment_one/share/ament_index/resource_index
+[0.689s] creating /home/eskil/assignment_ws/src/install/assignment_one/share/ament_index/resource_index/packages
+[0.689s] copying resource/assignment_one -> /home/eskil/assignment_ws/src/install/assignment_one/share/ament_index/resource_index/packages
+[0.689s] copying package.xml -> /home/eskil/assignment_ws/src/install/assignment_one/share/assignment_one
+[0.689s] running install_egg_info
+[0.690s] Copying ../build/assignment_one/assignment_one.egg-info to /home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages/assignment_one-0.0.1-py3.8.egg-info
+[0.691s] running install_scripts
+[0.703s] Installing scan_listener script to /home/eskil/assignment_ws/src/install/assignment_one/lib/assignment_one
+[0.703s] writing list of installed files to '/home/eskil/assignment_ws/src/build/assignment_one/install.log'
+[0.724s] Invoked command in '/home/eskil/assignment_ws/src/assignment_one' returned '0': PYTHONPATH=/home/eskil/assignment_ws/src/build/assignment_one/prefix_override:/home/eskil/assignment_ws/src/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/assignment_one build --build-base /home/eskil/assignment_ws/src/build/assignment_one/build install --record /home/eskil/assignment_ws/src/build/assignment_one/install.log --install-scripts $base/lib/assignment_one --single-version-externally-managed

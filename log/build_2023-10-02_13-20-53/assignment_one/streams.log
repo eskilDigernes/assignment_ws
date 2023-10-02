@@ -1,0 +1,27 @@
+[0.506s] Invoking command in '/home/eskil/assignment_ws/build/assignment_one': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/eskil/assignment_ws/build/assignment_one/build
+[0.681s] running develop
+[0.803s] Invoked command in '/home/eskil/assignment_ws/build/assignment_one' returned '0': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/eskil/assignment_ws/build/assignment_one/build
+[0.805s] Invoking command in '/home/eskil/assignment_ws/src/assignment_one': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/assignment_one build --build-base /home/eskil/assignment_ws/build/assignment_one/build install --record /home/eskil/assignment_ws/build/assignment_one/install.log --install-scripts $base/lib/assignment_one --single-version-externally-managed
+[0.960s] running egg_info
+[0.960s] writing ../../build/assignment_one/assignment_one.egg-info/PKG-INFO
+[0.961s] writing dependency_links to ../../build/assignment_one/assignment_one.egg-info/dependency_links.txt
+[0.961s] writing entry points to ../../build/assignment_one/assignment_one.egg-info/entry_points.txt
+[0.961s] writing requirements to ../../build/assignment_one/assignment_one.egg-info/requires.txt
+[0.961s] writing top-level names to ../../build/assignment_one/assignment_one.egg-info/top_level.txt
+[0.987s] reading manifest file '../../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+[0.987s] writing manifest file '../../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+[0.987s] running build
+[0.988s] running build_py
+[0.988s] copying assignment_one/scan_listener.py -> /home/eskil/assignment_ws/build/assignment_one/build/lib/assignment_one
+[0.988s] running install
+[0.989s] running install_lib
+[0.989s] copying /home/eskil/assignment_ws/build/assignment_one/build/lib/assignment_one/scan_listener.py -> /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one
+[0.990s] byte-compiling /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one/scan_listener.py to scan_listener.cpython-38.pyc
+[0.991s] running install_data
+[0.991s] running install_egg_info
+[0.992s] removing '/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one-0.0.1-py3.8.egg-info' (and everything under it)
+[0.993s] Copying ../../build/assignment_one/assignment_one.egg-info to /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one-0.0.1-py3.8.egg-info
+[0.993s] running install_scripts
+[1.006s] Installing scan_listener script to /home/eskil/assignment_ws/install/assignment_one/lib/assignment_one
+[1.006s] writing list of installed files to '/home/eskil/assignment_ws/build/assignment_one/install.log'
+[1.025s] Invoked command in '/home/eskil/assignment_ws/src/assignment_one' returned '0': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/assignment_one build --build-base /home/eskil/assignment_ws/build/assignment_one/build install --record /home/eskil/assignment_ws/build/assignment_one/install.log --install-scripts $base/lib/assignment_one --single-version-externally-managed

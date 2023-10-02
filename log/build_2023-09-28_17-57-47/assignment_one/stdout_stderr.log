@@ -1,0 +1,23 @@
+running develop
+running egg_info
+writing ../../build/assignment_one/assignment_one.egg-info/PKG-INFO
+writing dependency_links to ../../build/assignment_one/assignment_one.egg-info/dependency_links.txt
+writing entry points to ../../build/assignment_one/assignment_one.egg-info/entry_points.txt
+writing requirements to ../../build/assignment_one/assignment_one.egg-info/requires.txt
+writing top-level names to ../../build/assignment_one/assignment_one.egg-info/top_level.txt
+reading manifest file '../../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+writing manifest file '../../build/assignment_one/assignment_one.egg-info/SOURCES.txt'
+running build
+running build_py
+copying assignment_one/scan_listener.py -> /home/eskil/assignment_ws/build/assignment_one/build/lib/assignment_one
+running install
+running install_lib
+copying /home/eskil/assignment_ws/build/assignment_one/build/lib/assignment_one/scan_listener.py -> /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one
+byte-compiling /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one/scan_listener.py to scan_listener.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one-0.0.1-py3.8.egg-info' (and everything under it)
+Copying ../../build/assignment_one/assignment_one.egg-info to /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment_one-0.0.1-py3.8.egg-info
+running install_scripts
+Installing scan_listener script to /home/eskil/assignment_ws/install/assignment_one/lib/assignment_one
+writing list of installed files to '/home/eskil/assignment_ws/build/assignment_one/install.log'

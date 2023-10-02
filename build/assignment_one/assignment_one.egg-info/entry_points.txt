@@ -1,0 +1,3 @@
+[console_scripts]
+scan_listener = assignment_one.scan_listener:main
+

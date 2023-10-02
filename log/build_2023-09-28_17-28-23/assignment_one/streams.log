@@ -1,0 +1,25 @@
+[0.494s] Invoking command in '/home/eskil/assignment_ws/build/assignment_one': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/eskil/assignment_ws/build/assignment_one/build --no-deps install_data
+[0.667s] running develop
+[0.760s] running egg_info
+[0.760s] creating assignment_one.egg-info
+[0.761s] writing assignment_one.egg-info/PKG-INFO
+[0.761s] writing dependency_links to assignment_one.egg-info/dependency_links.txt
+[0.761s] writing entry points to assignment_one.egg-info/entry_points.txt
+[0.761s] writing requirements to assignment_one.egg-info/requires.txt
+[0.761s] writing top-level names to assignment_one.egg-info/top_level.txt
+[0.762s] writing manifest file 'assignment_one.egg-info/SOURCES.txt'
+[0.786s] reading manifest file 'assignment_one.egg-info/SOURCES.txt'
+[0.786s] writing manifest file 'assignment_one.egg-info/SOURCES.txt'
+[0.811s] running build_ext
+[0.811s] Creating /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/site.py
+[0.813s] Creating /home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages/assignment-one.egg-link (link to .)
+[0.813s] Installing scan_listener script to /home/eskil/assignment_ws/install/assignment_one/lib/assignment_one
+[0.813s] 
+[0.814s] Installed /home/eskil/assignment_ws/build/assignment_one
+[0.814s] running install_data
+[0.814s] creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index
+[0.814s] creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index
+[0.814s] creating /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index/packages
+[0.814s] copying resource/assignment_one -> /home/eskil/assignment_ws/install/assignment_one/share/ament_index/resource_index/packages
+[0.814s] copying package.xml -> /home/eskil/assignment_ws/install/assignment_one/share/assignment_one
+[0.838s] Invoked command in '/home/eskil/assignment_ws/build/assignment_one' returned '0': PYTHONPATH=/home/eskil/assignment_ws/build/assignment_one/prefix_override:/home/eskil/assignment_ws/install/assignment_one/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/eskil/assignment_ws/build/assignment_one/build --no-deps install_data
