@@ -25,7 +25,7 @@ class ScanListener(Node):
         distance = msg.ranges[0]
         
         if 0 < distance < 1.0:
-            self.get_logger().info('Obstacle')
+            print('Obstacle')
         else:
             print('Free')
 
