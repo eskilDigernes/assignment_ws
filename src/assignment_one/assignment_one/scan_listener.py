@@ -21,10 +21,18 @@ class ScanListener(Node):
         self.subscription
 
     def listener_callback(self, msg: LaserScan):
-        # Check the first range reading
-        distance = msg.ranges[0]
+        # Initialize a variable to keep track of the status
+        is_obstacle_present = False
         
-        if 0 < distance < 1.0:
+        # Iterate over all range readings
+        for distance in msg.ranges:
+            # Check if the distance is between 0 and 1 (change 1 to the desired threshold)
+            if 0 < distance < .3:
+                is_obstacle_present = True
+                break  # exit the loop early if an obstacle is found
+        
+        # Check the status and print the appropriate message
+        if is_obstacle_present:
             print('Obstacle')
         else:
             print('Free')
